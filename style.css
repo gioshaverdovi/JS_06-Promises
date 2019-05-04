@@ -1,0 +1,13 @@
+.container {
+    border-radius: 20px;
+}
+.shared div {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px;
+    border-radius: 20px;
+    max-width: 100%;
+    margin-top: 10px;
+}
+.shared .close {
+    cursor: pointer;
+}
